@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main.tv.titulo">25sp</dimen>
+    <dimen name="main.btn.masmenos.textsize">20sp</dimen>
+    <dimen name="main.tv.cantidad">25sp</dimen>
+    <dimen name="main.tv.resultado.marginleft">10dp</dimen>
+    <dimen name="main.ll.btns">20dp</dimen>
+
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">StudyJam_Java_1</string>
+    <string name="main.name">Calculo</string>
+
+    <string name="main.tv.titulo">Calculo Pedido de Cafe\'s</string>
+    <string name="main.btn.menos">-</string>
+    <string name="main.btn.mas">+</string>
+    <string name="main.tv.cantidad">1</string>
+    <string name="main.et.precio">Ingrese precio</string>
+    <string name="main.btn.borrar">Borrar</string>
+    <string name="main.btn.calcular">Calcular</string>
+    <string name="main.tv.total">Total: </string>
+    <string name="main.tv.resultado">Bs. 0</string>
+
+</resources>
